@@ -80,6 +80,9 @@ p {
   border-radius: 14px;
   background: white;
   margin-bottom: 10px;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .todoItem p {
