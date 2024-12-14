@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   color: #202124;
+  
 }
 
 h1,
@@ -19,7 +20,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: #eff6ff;
+  background: linear-gradient(to right, purple, cyan);
   gap: 14px;
 }
 
